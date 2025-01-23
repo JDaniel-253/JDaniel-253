@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This Daniel, I'm a IT student that loves motor, car, MOTOR.
+
 <!--
 **JDaniel-253/JDaniel-253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
